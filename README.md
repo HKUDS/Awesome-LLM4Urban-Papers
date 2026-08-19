@@ -181,6 +181,7 @@ LLMs have shown remarkable capabilities in urban computing, providing innovative
   - (arXiv'2024) **Be More Real: Travel Diary Generation Using LLM Agents and Individual Profiles** [[paper](https://arxiv.org/abs/2407.18932)] 
   - (arXiv'2024) **Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation** [[paper](https://arxiv.org/abs/2402.14744)] 
   - (arXiv'2024) **MobilityGPT: Enhanced Human Mobility Modeling with a GPT Model** [[paper](https://arxiv.org/abs/2402.03264)] 
+  - (arXiv'2026) **CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents** [[paper](https://arxiv.org/abs/2608.16897)]
 
 ## 🌧️ Environmental Monitoring
 ### ✨ LLMs as enhancer <a id="llms-as-enhancer-environmental"></a>
